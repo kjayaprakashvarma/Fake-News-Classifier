@@ -99,8 +99,8 @@ best_bilstm_model.keras
 You may see something like:
 
 ```
-Epoch 5/10
-Validation Accuracy: 94.78%
+Epoch 6/10
+Validation Accuracy: 99.91%
 Best model saved to: best_bilstm_model.keras
 ```
 
