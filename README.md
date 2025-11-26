@@ -78,7 +78,7 @@ pip install tensorflow pandas numpy scikit-learn
 3. Run the script:
 
 ```sh
-python 1.py
+python Main.py
 ```
 
 The script will:
@@ -91,7 +91,7 @@ The script will:
 ```
 best_bilstm_model.keras
 ```
-
+✔ Ask for input where wecan give unseen data 
 ---
 
 ## 📊 Example Output
