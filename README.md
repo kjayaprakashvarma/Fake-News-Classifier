@@ -37,6 +37,9 @@ The workflow includes:
 
 ## 📂 Dataset Format
 
+Link : https://www.kaggle.com/api/v1/datasets/download/saurabhshahane/fake-news-classification
+
+
 You must include two CSV files in the project directory:
 
 | File Name | Meaning |
